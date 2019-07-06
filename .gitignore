@@ -1,0 +1,7 @@
+gradle*
+gradle/
+out/
+.vscode/
+.idea/
+*.iml
+.gradle/
